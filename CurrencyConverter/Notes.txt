@@ -1,0 +1,3 @@
+﻿Runtime environment: Visual Studio 2017
+Dot Net Framework: 4.7.1
+Third Party Dependency: Mahapps.Metro

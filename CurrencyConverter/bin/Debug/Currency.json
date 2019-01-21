@@ -1,0 +1,117 @@
+{
+  "Currencies":
+  [
+    {
+      "Code": "AUD",
+      "Description": "Australian Dollar"
+    },
+    {
+      "Code": "BGN",
+      "Description": "Bulgarian Lev"
+    },
+    {
+      "Code": "BRL",
+      "Description": "Brazilian Real"
+    },
+    {
+      "Code": "CAD",
+      "Description": "Canadian Dollar"
+    },
+    {
+      "Code": "CHF",
+      "Description": "Swiss Franc"
+    },
+    {
+      "Code": "CNY",
+      "Description": "Chinese Yuan"
+    },
+    {
+      "Code": "CZK",
+      "Description": "Czech Republic Koruna"
+    },
+    {
+      "Code": "DKK",
+      "Description": "Danish Krone"
+    },
+    {
+      "Code": "EUR",
+      "Description": "Euro"
+    },
+    {
+      "Code": "GBP",
+      "Description": "British Pound Sterling"
+    },
+    {
+      "Code": "HKD",
+      "Description": "Hong Kong Dollar"
+    },
+    {
+      "Code": "HRK",
+      "Description": "Croatian Kuna"
+    },
+    {
+      "Code": "HUF",
+      "Description": "Hungarian Forint"
+    },
+    {
+      "Code": "IDR",
+      "Description": "Indonesian Rupiah"
+    },
+    {
+      "Code": "ILS",
+      "Description": "Israeli New Sheqel"
+    },
+    {
+      "Code": "INR",
+      "Description": "Indian Rupee"
+    },
+    {
+      "Code": "ISK",
+      "Description": "Icelandic Kr"
+    },
+    {
+      "Code": "JPY",
+      "Description": "Japanese Yen"
+    },
+    {
+      "Code": "KRW",
+      "Description": "South Korean Won"
+    },
+    {
+      "Code": "NZD",
+      "Description": "New Zealand Dollar"
+    },
+    {
+      "Code": "PHP",
+      "Description": "Philippine Peso"
+    },
+    {
+      "Code": "PLN",
+      "Description": "Polish Zloty"
+    },
+    {
+      "Code": "RUB",
+      "Description": "Russian Ruble"
+    },
+    {
+      "Code": "SEK",
+      "Description": "Swedish Krona"
+    },
+    {
+      "Code": "SGD",
+      "Description": "Singapore Dollar"
+    },
+    {
+      "Code": "TRY",
+      "Description": "Turkish Lira"
+    },
+    {
+      "Code": "USD",
+      "Description": "United States Dollar"
+    },
+    {
+      "Code": "ZAR",
+      "Description": "South African Rand"
+    }
+  ]
+}
